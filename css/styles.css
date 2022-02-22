@@ -1,0 +1,17 @@
+/** external css - affects all webpages **/
+body {
+  background-color: #2B2E4A;
+  font-family: Monaco, Monospace;
+  color: #E84545;
+  font-weight: bold;
+}
+hr {
+  background-color: #E84545;
+  border-style: none;
+  height: 2px;
+  width: 50%;
+}
+
+h3 {
+    color: #ECE2E1;
+}
